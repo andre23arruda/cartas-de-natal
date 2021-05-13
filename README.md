@@ -11,6 +11,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>
+  <a href="#-testes">Testes</a>
   <a href="#-dificuldades">Dificuldades</a>
 </p>
 
