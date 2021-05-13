@@ -33,6 +33,20 @@ disponibilizá-lo como uma REST API.
 ![Swagger doc](/images/swagger_1.png?raw=true)
 
 
+## Testes
+### Para rodar os testes localmente:
+
+- Tenha o Python instalado em sua máquina
+- Renomeie o arquivo env_example.py para env.py
+- e rode no terminal:
+```sh
+    python -m venv venv
+    . venv/Scripts/activate
+    pip install -r requirements.txt
+    python manage.py tests
+```
+![Testes](/images/testes_1.png?raw=true)
+
 
 ## Dificuldades
 
