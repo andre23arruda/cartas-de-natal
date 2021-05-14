@@ -44,7 +44,7 @@ disponibilizá-lo como uma REST API.
     python -m venv venv
     . venv/Scripts/activate
     pip install -r requirements.txt
-    python manage.py tests
+    python manage.py test
 ```
 ![Testes](/images/testes_1.png?raw=true)
 
